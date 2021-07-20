@@ -1,1 +1,1 @@
-# Machine_learning_course_homeworks
+# Machine learning course homeworks at Skoltech
